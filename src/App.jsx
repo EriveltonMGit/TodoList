@@ -9,12 +9,7 @@ import Filter from "./components/Filter";
 function App() {
   // PEGA OS DADOS
   const [todos, setTodos] = useState([
-    {
-      id: 1,
-      text: "Infrome sua tarefa",
-      category: "Pessoal",
-      isCompemented: false,
-    },
+    
   
   ]);
 
