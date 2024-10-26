@@ -1,6 +1,13 @@
 # To-Do List
 
 Este é um aplicativo simples de To-Do List, onde é possível adicionar, marcar como concluídas e excluir tarefas. O projeto também possui funcionalidades de filtro e pesquisa para ajudar a organizar as tarefas.
+![Descrição da Imagem](https://github.com/EriveltonMGit/TodoList/raw/main/src/assets/capa.png)
+
+# Deploy do projeto
+
+&nbsp;<a href="https://listagem-tarefas.netlify.app/">
+Link para o projeto 
+</a>&nbsp;
 
 
 # Funcionalidades
