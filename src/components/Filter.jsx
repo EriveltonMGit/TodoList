@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import '../assets/App.css';
+
 
 const Filter = ({ filter, setFilter, setSort }) => {
   return (

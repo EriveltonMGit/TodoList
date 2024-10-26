@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-import '../assets/App.css'
+
 
 const Todo = ({ todo, removeTodo, completeTodo }) => {
   return (

@@ -1,6 +1,6 @@
 import { useState } from "react";
 // IMPORT CSS
-import "../../todo_list/src/assets/App.css";
+import './App.css';
 import Todo from "./components/Todo";
 import TodoForm from "./components/TodoForm";
 import Search from "./components/Search";
