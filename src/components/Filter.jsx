@@ -7,7 +7,7 @@ const Filter = ({ filter, setFilter, setSort }) => {
       <h1>Filtrar:</h1>
       <div className="filter-options">
         <div>
-          <p>Status:</p>
+          <p className='p_status'>Status:</p>
           <select value={filter} onChange={(e) => setFilter(e.target.value)}>
             <option value="All">Todas</option>
             <option value="Completed">Completas</option>
